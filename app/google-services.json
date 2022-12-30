@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1088513366507",
+    "firebase_url": "https://my-personal-088-default-rtdb.firebaseio.com",
+    "project_id": "my-personal-088",
+    "storage_bucket": "my-personal-088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088513366507:android:2b57e71925412cff77a1ae",
+        "android_client_info": {
+          "package_name": "com.rr.personal.data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088513366507-r23i4ae3hh9ckrv2dr55orn4tnjchtuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQF3LIZsngfksA_HNaysSLjs5PNBzsFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088513366507-r23i4ae3hh9ckrv2dr55orn4tnjchtuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
